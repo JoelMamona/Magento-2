@@ -1,6 +1,6 @@
 # Como criar um novo módulo  no Magento 2
 
-Obs: seu novo modulo deve ser carregado na app/code da estrutura de pasta do seu magento instalado. Pode fazer o upload dos arquivos via FTP ou SSH.
+Obs: seu novo modulo deve ser carregado na **app/code** da estrutura de pasta do seu magento instalado. Pode fazer o upload dos arquivos via FTP ou SSH.
 
 
 * Substitua o nome da pasta **"Vendor"** e pelo nome a sua escolha
