@@ -4,6 +4,7 @@ Obs: seu novo modulo deve ser carregado na app/code da estrutura de pasta do seu
 
 
 -Substitua o nome da pasta "Vendor" e pelo nome a sua escolha
+
 -Substitua o nome da pasta "ModuleName"  pelo nome do seu módulo
 
 1- passo
