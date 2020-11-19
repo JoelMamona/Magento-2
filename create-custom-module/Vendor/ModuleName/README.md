@@ -3,9 +3,9 @@
 Obs: seu novo modulo deve ser carregado na app/code da estrutura de pasta do seu magento instalado. Pode fazer o upload dos arquivos via FTP ou SSH.
 
 
-* Substitua o nome da pasta "Vendor" e pelo nome a sua escolha
+* Substitua o nome da pasta **"Vendor"** e pelo nome a sua escolha
 
-* Substitua o nome da pasta "ModuleName"  pelo nome do seu módulo
+* Substitua o nome da pasta **"ModuleName"**  pelo nome do seu módulo
 
 # 1º passo
 arquivo módulo.xml
