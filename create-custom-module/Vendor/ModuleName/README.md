@@ -1,4 +1,4 @@
-Como criar um novo módulo  no Magento 2
+# Como criar um novo módulo  no Magento 2
 
 Estrutura de pastas para a criação de modulo de
 
