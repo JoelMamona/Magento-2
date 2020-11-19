@@ -1,13 +1,5 @@
 # Como criar um novo módulo  no Magento 2
 
-Estrutura de pastas para a criação de modulo de
-
-Vendor
- -NomedoModulo
-    -etc
-        module.xml
-    registration.php
-
 Obs: seu novo modulo deve ser carregado na app/code da estrutura de pasta do seu magento instalado. Pode fazer o upload dos arquivos via FTP ou SSH.
 
 
