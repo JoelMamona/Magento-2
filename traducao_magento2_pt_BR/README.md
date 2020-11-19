@@ -5,7 +5,7 @@
 Para instalar a tradução manualmente você irá precisar acessar seu servidor.
 
 * Crie  directorio em **app/i18n/magento/magento_pt_br**
-* Efetue o [download](https://github.com/JoelMamona/Magento-2/traducao_magento2_pt_BR)
+* Efetue o [download](https://github.com/JoelMamona/Magento-2/tree/main/traducao_magento2_pt_BR)
 * Copia o conteúdo do repositório para a pasta `magento_pt_br`
 
 ## 1- Habilitar a Loja em Português
