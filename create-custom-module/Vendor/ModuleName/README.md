@@ -25,5 +25,7 @@ Esses dois arquivos acima são de uso obrigatório para criar e começar com o d
 Após a criação de arquivos module.xml e registro.php, o próximo passo é acessar a linha de comandos do magento e executar os seguintes comandos sequencialmente:
 
 php bin/magento setup:upgrade
+
 php bin/magento setup:static-content:deploy -f
+
 php bin/magento cache:flush
